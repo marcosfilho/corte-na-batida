@@ -21,4 +21,4 @@ O ChatGPT roda Python e ffmpeg na própria "Análise de dados", então os mesmos
 
 Abra o GPT, envie os 6 vídeos e a imagem do final, e escreva: **"Faz o corte na batida"**.
 
-**Atenção ao tamanho:** o ChatGPT aceita até ~512 MB por arquivo. Vídeos em 4K de 30 s passam disso, então grave em **1080p** ou exporte nessa resolução antes de enviar.
+**Atenção ao tamanho:** grave em **1080p 30fps** e corte cada vídeo para 10–15 s antes de enviar. O upload pelo celular fica bem mais rápido.

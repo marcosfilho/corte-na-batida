@@ -24,6 +24,8 @@ Tudo roda com **Python 3 + ffmpeg**. Scripts em `scripts/`:
 4. **A imagem do final** em PNG (de preferência com fundo transparente): print/sticker do Strava, logo, @ do Instagram, qualquer coisa.
 **Não precisa de música.** O vídeo sai **mudo** e a pessoa coloca o som na hora de postar, no próprio Instagram (passo 8). A música é "Class-Sikh Maut, Vol. II" (Prabh Deep, Seedhe Maut e Sez on the Beat), e o Instagram cuida da licença. Se a pessoa quiser conferir com som, ela pode mandar o Reel do trend salvo no celular, e aí você extrai o áudio dele (passo 1).
 
+Se a pessoa disser que o arquivo é grande demais para enviar (o app do Claude aceita até 30 MB por arquivo), oriente: gravar em 1080p 30 fps e cortar cada vídeo para 10–15 s no app Fotos. Clipes curtos funcionam normalmente, porque a edição usa só ~2 s de cada exercício.
+
 Se faltar algo, diga exatamente o que falta e mostre o `GRAVACAO.md`. Com 2 ou 3 exercícios funciona também (o script repete os que existem), mas avise que fica melhor com 4.
 
 ## Passo a passo

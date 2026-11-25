@@ -25,6 +25,8 @@ Separe também:
 
 **Não precisa baixar música.** O vídeo sai mudo, e você coloca o som na hora de postar (passo 4).
 
+> **📱 Vai mandar pelo celular?** O Claude aceita até 30 MB por arquivo. Grave em **1080p 30fps** e corte cada vídeo para **10–15 s** no app Fotos antes de mandar. Assim cada um fica com 10–15 MB.
+
 Guia completo: [`GRAVACAO.md`](skills/corte-na-batida/GRAVACAO.md)
 
 ## 2. Instale a skill
