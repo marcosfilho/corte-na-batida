@@ -27,7 +27,7 @@ Ele devolve a foto do chute com o Strava por cima. Se não quiser fazer isso, us
 1. Baixe o app **Edits** (do Instagram, grátis) na App Store ou na Play Store e entre com a sua conta do Instagram.
 2. Abra o template: pelo link que eu mando no direct, ou no Edits entrando no perfil **@marcosfilho.ia**. Ele também pode aparecer na aba **Inspiração**.
 3. Toque em **Usar template**.
-3. Escolha os arquivos **nesta ordem**:
+4. Escolha os arquivos **nesta ordem**:
 
 | Ordem | O que escolher |
 |---|---|
@@ -41,8 +41,8 @@ Ele devolve a foto do chute com o Strava por cima. Se não quiser fazer isso, us
 | 15 | Cena final (correndo e chutando) |
 | 16 | **Foto do Strava** |
 
-4. Se algum trecho não ficou bom, toque no clipe e arraste para escolher outra parte do vídeo.
-5. Exporte e poste. A música já vem no template.
+5. Se algum trecho não ficou bom, toque no clipe e arraste para escolher outra parte do vídeo.
+6. Exporte e poste. A música já vem no template.
 
 ---
 
