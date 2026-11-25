@@ -89,7 +89,9 @@ Sempre termine com estas instruções:
 3. Escolha o vídeo que eu te mandei. Ele começa junto com o áudio, então **não mexa no início**. As telas pretas caem nos silêncios da música.
 4. Poste. A música é licenciada pelo próprio Instagram.
 
-No TikTok é igual: procure "Class-Sikh Maut Vol. II" e use o **som do trend**, aquele que tem os cortes de silêncio.
+- **Facebook:** ao postar no Instagram, ative "Compartilhar no Facebook".
+- **TikTok:** abra um vídeo desse trend no TikTok e toque no som dele, depois em "Usar este som". Se não achar, use "Class-Sikh Maut Vol. II" da biblioteca do TikTok e ajuste o começo cortando o som até a batida encaixar; nesse caso as telas pretas vão tocar com música.
+- Não recomende postar com a música já colada no vídeo, porque a plataforma pode silenciar.
 
 ## Ajustes comuns (o que a pessoa costuma pedir)
 - **"Muito movimento / não dá para ver o exercício"** → no `plano.json`, junte cortes vizinhos (menos planos, cada um mais longo) ou use menos momentos repetidos. Não troque de exercício a cada corte.

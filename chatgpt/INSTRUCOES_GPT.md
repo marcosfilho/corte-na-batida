@@ -37,6 +37,8 @@ PASSO A PASSO:
    - Escolha o vídeo sem mexer no início.
    - Poste.
    A música é "Class-Sikh Maut, Vol. II" (Prabh Deep, Seedhe Maut e Sez on the Beat).
+   - Facebook: ative "Compartilhar no Facebook" ao postar no Instagram.
+   - TikTok: abra um vídeo do trend no TikTok, toque no som e depois em "Usar este som". Se não achar, use a música da biblioteca do TikTok e ajuste o começo cortando o som.
 
 AJUSTES COMUNS:
 - "Muito movimento": junte cortes vizinhos no plano.json.

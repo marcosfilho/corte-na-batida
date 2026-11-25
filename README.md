@@ -59,6 +59,14 @@ O assistente olha os vídeos, escolhe os melhores momentos de cada ângulo, acha
 
 A música é **"Class-Sikh Maut, Vol. II"**, de Prabh Deep, Seedhe Maut e Sez on the Beat. Usando o áudio pelo Instagram, a licença fica por conta da plataforma.
 
+**Facebook:** ao postar no Instagram, ative **"Compartilhar no Facebook"**. O Reel vai junto, já com o áudio.
+
+**TikTok:**
+1. Procure um vídeo desse trend no TikTok e toque no **som** dele, depois em **"Usar este som"**. Assim vem a versão já cortada, com os silêncios.
+2. Se não achar, procure a música **"Class-Sikh Maut Vol. II"** na biblioteca do TikTok. Ela vem inteira, sem os cortes de silêncio, então as telas pretas vão tocar com música. Ajuste o começo no botão de cortar o som até a batida encaixar.
+
+Evite postar o vídeo já com a música colada: o TikTok e o Facebook podem silenciar o vídeo por direito autoral.
+
 ---
 
 ## Como funciona (para curiosos)
