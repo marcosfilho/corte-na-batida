@@ -1,25 +1,24 @@
-# Roteiro do vídeo tutorial (~50 s)
+# Roteiro do vídeo tutorial (~45 s)
 
-Tom: direto, rápido, de tutorial. Você falando para a câmera, com cortes para mostrar cada passo.
+Tom: direto e rápido. Você falando para a câmera, intercalado com **gravação de tela** do celular mostrando cada passo.
 
 | Tempo | Fala | Na tela |
 |---|---|---|
-| 0–3 s | **"Esse vídeo eu não editei. Quem editou foi a IA."** | Começa com o resultado final rodando (2 s) |
-| 3–8 s | **"Pede pra um amigo te filmar fazendo 4 exercícios. Você fica no lugar e ele vai andando em volta, pegando vários ângulos."** | Bastidor: amigo girando em volta de você |
-| 8–11 s | **"Depois, um close do teu rosto."** | Close |
-| 11–17 s | **"E a cena final: vem correndo na direção da câmera e chuta uma bola que não existe. Ou finge que vai arremessar um peso."** | Você correndo e chutando |
-| 17–21 s | **"Separa a imagem que vai aparecer no final: teu Strava, tua logo, teu arroba."** | Print do Strava / logo |
-| 21–27 s | **"Agora instala a skill. Funciona no Claude e no ChatGPT."** | Página do GitHub, rápido |
-| 27–34 s | **"Joga todos os vídeos no chat e escreve: faz o corte na batida."** | Tela do chat com os vídeos subindo e a frase |
-| 34–40 s | **"Ele escolhe os melhores ângulos, acha o frame do chute e corta tudo na batida."** | Folhas de contato e o vídeo renderizando (acelerado) |
-| 40–45 s | **"Pra postar, abre o Reel do trend, toca em 'Usar áudio' e escolhe o teu vídeo. Já encaixa sozinho."** | Gravação de tela do Instagram: Usar áudio → escolher o vídeo |
-| 45–50 s | **"Quer a skill? Comenta EDIT27 que eu te mando o link no direct. Só me segue pra mensagem chegar."** | Resultado final em tela cheia + texto grande "COMENTA: EDIT27" |
+| 0–3 s | **"Essa edição eu fiz em 2 minutos, no celular."** | O resultado final rodando |
+| 3–9 s | **"Pede pra um amigo te filmar fazendo 4 exercícios. Você fica no lugar e ele vai andando em volta."** | Bastidor: amigo girando em volta de você |
+| 9–12 s | **"Grava também um close do teu rosto."** | Close |
+| 12–17 s | **"E no final, vem correndo na direção da câmera e chuta uma bola que não existe."** | Você correndo e chutando |
+| 17–21 s | **"Tira um print do teu Strava."** | Gravação de tela: print do Strava |
+| 21–26 s | **"Se quiser deixar mais bonito, joga o print no ChatGPT e pede pra recortar e botar em cima da tua foto."** | Gravação de tela: ChatGPT ou Claude devolvendo a imagem |
+| 26–35 s | **"Agora abre o template no Edits, toca em 'Usar template' e vai escolhendo os teus vídeos. No último, a foto do Strava."** | Gravação de tela no Edits: usar template, escolher clipes, foto no final |
+| 35–40 s | **"A música e os cortes já vêm prontos. É só exportar e postar."** | Gravação de tela: exportar → postar |
+| 40–45 s | **"Quer o template? Comenta EDIT27 que eu te mando no direct. Só me segue pra mensagem chegar."** | Resultado final + texto grande "COMENTA: EDIT27" |
 
 ## Legenda do post (sugestão)
 
-> Fiz essa edição sem abrir o CapCut 🤯
+> Fiz essa edição em 2 minutos, no celular 🤯
 > 1️⃣ Grava 4 exercícios de vários ângulos
 > 2️⃣ Um close + uma cena final chutando na câmera
-> 3️⃣ Joga no Claude ou ChatGPT com a skill "corte na batida"
-> Comenta **EDIT27** que eu te mando o link no direct 👇
+> 3️⃣ Print do Strava e usa o template no Edits
+> Comenta **EDIT27** que eu te mando o template no direct 👇
 > (me segue pra mensagem chegar)

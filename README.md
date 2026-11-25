@@ -11,6 +11,18 @@ Vertical 1080×1920, ~11 s, pronto para Reels e TikTok.
 
 ---
 
+## 📱 Jeito mais fácil: template no Edits
+
+Tudo no celular, sem instalar nada: grave os vídeos, tire um print do Strava e use o template no **Edits**, o app de edição do Instagram. A música e os cortes já vêm prontos.
+
+👉 Passo a passo: [`TEMPLATE_EDITS.md`](TEMPLATE_EDITS.md)
+
+---
+
+## 🤖 Versão completa com IA (Claude ou ChatGPT)
+
+Com a skill, a IA escolhe os melhores ângulos sozinha, faz a rajada de cortes e a imagem final **sai do pé e cresce na tela**.
+
 ## 1. Grave (5 minutos)
 
 Peça para um amigo te filmar, com o celular em pé:
@@ -70,10 +82,6 @@ A música é **"Class-Sikh Maut, Vol. II"**, de Prabh Deep, Seedhe Maut e Sez on
 Evite postar o vídeo já com a música colada: o TikTok e o Facebook podem silenciar o vídeo por direito autoral.
 
 ---
-
-## Prefere fazer no celular?
-
-Tem um passo a passo para montar como **template no Edits**, o app de edição do Instagram: [`TEMPLATE_EDITS.md`](TEMPLATE_EDITS.md).
 
 ## Como funciona (para curiosos)
 
