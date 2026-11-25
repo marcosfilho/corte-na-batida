@@ -69,6 +69,10 @@ Evite postar o vídeo já com a música colada: o TikTok e o Facebook podem sile
 
 ---
 
+## Prefere fazer no celular?
+
+Tem um passo a passo para montar como **template no Edits**, o app de edição do Instagram: [`TEMPLATE_EDITS.md`](TEMPLATE_EDITS.md).
+
 ## Como funciona (para curiosos)
 
 | Arquivo | O que faz |
