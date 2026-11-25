@@ -12,18 +12,21 @@ Peça para um amigo filmar, com o celular **em pé**:
 - **1 close do seu rosto**, de 5 s.
 - **1 cena final**: você vem correndo na direção da câmera e **chuta uma bola imaginária**, ou finge arremessar um peso.
 
-### 2. Pegue a foto do Strava
-Tire um print da sua corrida ou do seu treino no Strava, ou use **Compartilhar → imagem** no próprio app.
+### 2. Faça a foto do final
+1. Abra o vídeo do chute, pause **bem no momento do chute** (perna lá em cima) e tire um print.
+2. Tire um print do seu Strava.
+3. Mande os dois prints para o **ChatGPT** ou o **Claude** e peça:
 
-**Quer a foto mais bonita?** (opcional) Mande o print e uma foto da sua cena final para o **ChatGPT** ou o **Claude** e peça:
+> *"Recorta os números e o mapa desse print do Strava, com fundo transparente, e coloca em cima dessa foto do chute, grande e no centro. Formato vertical 9:16."*
 
-> *"Recorta só os números e o mapa desse print do Strava, com fundo transparente, e coloca em cima dessa outra foto, grande e no centro. Formato vertical 9:16."*
-
-Assim a foto final fica você chutando com o resultado do Strava por cima.
+Ele devolve a foto do chute com o Strava por cima. Se não quiser fazer isso, use o print do Strava puro.
 
 ### 3. Use o template
-1. Abra o template no Edits (link que eu te mando quando você comenta **EDIT27**).
-2. Toque em **Usar template**.
+**Não precisa baixar nem instalar o template.** Ele fica dentro do app Edits.
+
+1. Baixe o app **Edits** (do Instagram, grátis) na App Store ou na Play Store e entre com a sua conta do Instagram.
+2. Abra o template: pelo link que eu mando no direct, ou no Edits entrando no perfil **@marcosfilho.ia**. Ele também pode aparecer na aba **Inspiração**.
+3. Toque em **Usar template**.
 3. Escolha os arquivos **nesta ordem**:
 
 | Ordem | O que escolher |
@@ -73,6 +76,8 @@ Total: 11,12 s. As telas pretas caem nos silêncios do áudio.
 
 3. Os espaços 1–3, 10–11 e 13–14 são o mesmo close, então a ordem da tabela de uso fica mais simples (o close aparece 7 vezes). Se o Edits pedir um arquivo por espaço, a pessoa escolhe o mesmo vídeo de close nesses espaços.
 4. Exporte, poste o Reel e ative o compartilhamento como **template**.
-5. Teste com outra conta antes de divulgar: confira se dá para trocar todos os espaços, **inclusive a foto do final**.
+5. Teste com outra conta antes de divulgar: confira se dá para trocar todos os espaços, **inclusive a foto do final**. Se o template não aceitar foto, a pessoa transforma a foto num vídeo curto antes, por exemplo gravando a tela por 2 segundos com a foto aberta.
+
+> Segundo o Instagram, por enquanto o template guarda os tempos, os cortes, a música e o texto. Sobreposições, keyframes e efeitos em template ainda vão chegar ("soon"). Por isso o final é uma foto num espaço normal, e não uma imagem animada por cima.
 
 > Os tempos vêm da versão simplificada da edição. A versão completa, com rajada de cortes e a imagem saindo do pé e crescendo, continua disponível pela skill no Claude/ChatGPT (ver README).
