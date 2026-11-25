@@ -42,7 +42,8 @@ Ele devolve a foto do chute com o Strava por cima. Se não quiser fazer isso, us
 | 16 | **Foto do Strava** |
 
 5. Se algum trecho não ficou bom, toque no clipe e arraste para escolher outra parte do vídeo.
-6. Exporte e poste. A música já vem no template.
+6. **Opcional: coloque um filtro.** Cada pessoa grava com uma luz diferente, então escolha no Edits (ou no próprio Instagram, na hora de postar) o filtro que combina com o seu vídeo. Para um ar de cinema, procure filtros mais escuros, com contraste alto e cor menos saturada.
+7. Exporte e poste. A música já vem no template.
 
 ---
 

@@ -19,7 +19,7 @@ Formato: você falando para a câmera, intercalado com **gravação de tela do c
 | 7 | 28–33 s | **"Baixa o app Edits, que é o editor do próprio Instagram. É de graça."** | Tela: App Store → Edits → Obter |
 | 8 | 33–40 s | **"No Edits, entra no meu perfil, abre o template 'corte na batida' e toca em Usar template."** | Tela: Edits → busca @marcosfilho.ia → template → "Usar template" |
 | 9 | 40–47 s | **"Vai escolhendo os teus vídeos na ordem. No último espaço, a foto do Strava."** | Tela: escolhendo os clipes, foto no final |
-| 10 | 47–51 s | **"A música e os cortes já vêm prontos. Exporta e posta."** | Tela: exportar → postar |
+| 10 | 47–51 s | **"A música e os cortes já vêm prontos. Se quiser, escolhe um filtro pra deixar com cara de cinema. Exporta e posta."** | Tela: escolhendo um filtro escuro → exportar → postar |
 | 11 | 51–55 s | **"Quer o link do template? Comenta EDIT27 que eu te mando no direct. Me segue pra mensagem chegar."** | Vídeo final + texto grande "COMENTA: EDIT27" |
 
 ## Legenda do post
