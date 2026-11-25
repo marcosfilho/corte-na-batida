@@ -1,0 +1,10 @@
+*.mp4
+*.mov
+*.MOV
+*.m4a
+*.wav
+*.mp3
+folhas/
+plano.json
+.DS_Store
+__pycache__/

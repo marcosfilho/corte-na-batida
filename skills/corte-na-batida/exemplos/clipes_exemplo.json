@@ -1,0 +1,11 @@
+{
+  "close": {"arquivo": "close.mov", "momentos": [14.2, 13.0, 15.4, 13.6, 14.6, 12.6, 16.0, 14.0, 15.0]},
+  "exercicios": [
+    {"nome": "puxada", "arquivo": "ex1.mov", "momentos": [7.6, 11.5, 19.0, 29.5]},
+    {"nome": "barra",  "arquivo": "ex2.mov", "momentos": [1.0, 4.6, 9.0, 10.2]},
+    {"nome": "rosca",  "arquivo": "ex3.mov", "momentos": [1, 4, 7, 10, 13, 16, 19, 22]},
+    {"nome": "remada", "arquivo": "ex4.mov", "momentos": [0.5, 2.2, 3.6, 5.0, 6.3, 7.6, 8.8, 5.3]}
+  ],
+  "final": {"arquivo": "final.mov", "impacto": 6.83, "ponto": [0.83, 0.39], "acelerar": 1.2},
+  "imagem_final": {"arquivo": "logo.png", "largura_final": 0.9, "centro_y": 0.5}
+}
