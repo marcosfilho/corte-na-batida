@@ -13,7 +13,7 @@ Tom: direto, rápido, de tutorial. Você falando para a câmera, com cortes para
 | 27–34 s | **"Joga todos os vídeos no chat e escreve: faz o corte na batida."** | Tela do chat com os vídeos subindo e a frase |
 | 34–40 s | **"Ele escolhe os melhores ângulos, acha o frame do chute e corta tudo na batida."** | Folhas de contato e o vídeo renderizando (acelerado) |
 | 40–45 s | **"Pra postar, abre o Reel do trend, toca em 'Usar áudio' e escolhe o teu vídeo. Já encaixa sozinho."** | Gravação de tela do Instagram: Usar áudio → escolher o vídeo |
-| 45–50 s | **"Quer a skill? Comenta CORTE BATIDA que eu te mando o link no direct. Só me segue pra mensagem chegar."** | Resultado final em tela cheia + texto grande "COMENTA: CORTE BATIDA" |
+| 45–50 s | **"Quer a skill? Comenta EDIT27 que eu te mando o link no direct. Só me segue pra mensagem chegar."** | Resultado final em tela cheia + texto grande "COMENTA: EDIT27" |
 
 ## Legenda do post (sugestão)
 
@@ -21,5 +21,5 @@ Tom: direto, rápido, de tutorial. Você falando para a câmera, com cortes para
 > 1️⃣ Grava 4 exercícios de vários ângulos
 > 2️⃣ Um close + uma cena final chutando na câmera
 > 3️⃣ Joga no Claude ou ChatGPT com a skill "corte na batida"
-> Comenta **CORTE BATIDA** que eu te mando o link no direct 👇
+> Comenta **EDIT27** que eu te mando o link no direct 👇
 > (me segue pra mensagem chegar)
